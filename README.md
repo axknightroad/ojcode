@@ -1,4 +1,4 @@
 ojcode
 ======
 
-oj&amp;pat's code
+Jobdu&PAT's source codes
